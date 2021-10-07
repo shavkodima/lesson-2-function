@@ -32,5 +32,3 @@ console.log(li2("lishki"))
 
 //рекурсия
 
-
-//aasdasdasdsdasdasd
